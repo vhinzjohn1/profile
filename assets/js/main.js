@@ -43,6 +43,7 @@
       behavior: 'smooth'
     })
   }
+  /* View more Button in Portfolio */
 
   /**
    * Mobile nav toggle
