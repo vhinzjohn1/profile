@@ -306,7 +306,10 @@ h6 {
 
 @media (max-width: 992px) {
   #header h1 {
-    font-size: 36px;
+    font-size: 25px;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
   }
 
   #header h2 {
