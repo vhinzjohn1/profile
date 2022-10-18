@@ -1,3 +1,5 @@
-This is my personal website 
+Vhinz John Balinas - Repository for my Website
 
-Created with html css javascript and some bootstrap 
+Created with html css javascript and some bootstrap
+
+
