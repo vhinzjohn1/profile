@@ -1,5 +1,5 @@
 Vhinz John Balinas - Repository for my Website
 
-Created with html css bootstrap templates and javascript
+Created with HTML, CSS, Bootstrap templates and Javascript
 
-Credits to: https://bootstrapmade.com/ where i got the structure of my web.
+Credits to: https://bootstrapmade.com/ where i got the structure of my web
