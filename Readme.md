@@ -1,4 +1,4 @@
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h1 align="center">Hi 👋, I'm Vhinz John Balinas</h1>
 <h3 align="center">A passionate and aspiring web developer</h3>
 
