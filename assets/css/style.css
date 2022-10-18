@@ -1205,6 +1205,7 @@ section .container {
   color: #31c2c7;
   padding: 50px;
   width: 100%;
+  padding: 20%;
 
 }
 .contact .info-box i.bx {
@@ -1363,6 +1364,12 @@ section .container {
   100% {
     transform: rotate(360deg);
   }
+}
+.contact .bi-github {
+  color: #18d26e;
+  font-size: 3rem;
+  display: flex;
+  position: absolute;
 }
 
 /*--------------------------------------------------------------
