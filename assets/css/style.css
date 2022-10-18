@@ -245,6 +245,7 @@ h6 {
   font-weight: 700;
   color: #94dff1;
   position: relative;
+  margin-bottom: -30px;
   font-family: "Poppins", sans-serif;
 }
 
@@ -273,6 +274,7 @@ h6 {
 #header .social-links {
   margin-top: 40px;
   display: flex;
+  margin-left: 10px;
 }
 
 #header .social-links a {
