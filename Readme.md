@@ -1,13 +1,12 @@
-Vhinz John Balinas - Repository for my Website
-
-Created with HTML, CSS, Bootstrap templates and Javascript
-
-Credits to: https://bootstrapmade.com/ where i got the structure of my web
 
 <h1 align="center">Hi 👋, I'm Vhinz John Balinas</h1>
 <h3 align="center">A passionate and aspiring web developer</h3>
 
 - 🔭 I’m currently working on <a href="https://vhinzjohn1.github.io/profile/" target="_blank">My Website</a>
+Created with HTML, CSS, Bootstrap templates and Javascript
+
+Credits to: https://bootstrapmade.com/ where i got the structure of my web
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
