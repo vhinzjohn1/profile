@@ -582,11 +582,28 @@ section .container {
   border-radius: 20px;
   box-shadow: 1px 1px 7px 2px #a9c5df;
 }
+@media (max-width: 800px) {
+  #about img {
+    display: flex;
+    width: 90%;
+    height: 85%;
+  }
+}
+
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
   color: #0fe2f1;
 }
+@media (max-width: 800px) {
+  .about-me .content h3 {
+    font-weight: 700;
+    font-size: 26px;
+    color: #0fe2f1;
+    margin-top: -20%;
+  }
+}
+
 
 .about-me .row strong{
   color: rgba(187, 239, 255, 0.952);
