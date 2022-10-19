@@ -4,7 +4,7 @@
 <h3 align="center">A passionate and aspiring web developer</h3>
 
 - 🔭 I’m currently working on <a href="https://vhinzjohn1.github.io/profile/" target="_blank">My Website</a>
-Created with HTML, CSS, Bootstrap templates and Javascript
+Created with HTML, CSS, Bootstrap and Javascript
 
 Credits to: https://bootstrapmade.com/ where i got the structure of my web
 
