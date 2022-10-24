@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on <a href="https://vhinzjohn1.github.io/profile/" target="_blank">My Website</a>
 Created with HTML, CSS, Bootstrap and Javascript
 
-Credits to: https://bootstrapmade.com/ where i got the structure of my web
+Credits to: https://bootstrapmade.com/ where I got a simple structure for my website
 
 
 <h3 align="left">Connect with me:</h3>
