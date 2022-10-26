@@ -585,8 +585,8 @@ section .container {
 @media (max-width: 800px) {
   #about img {
     display: flex;
-    width: 90%;
-    height: 85%;
+    width: 85%;
+    height: 92%;
   }
 }
 
@@ -600,7 +600,7 @@ section .container {
     font-weight: 700;
     font-size: 26px;
     color: #0fe2f1;
-    margin-top: -20%;
+    margin-top: -12%;
   }
 }
 
