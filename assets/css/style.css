@@ -24,7 +24,10 @@ body {
   background: transparent;
 
 }
-
+iframe{
+  text-align: center;
+  vertical-align: middle;
+}
 body::before {
   content: "";
   position: fixed;
@@ -1005,7 +1008,6 @@ section .container {
 }
 
 .portfolio .portfolio-wrap::before {
-  content: "";
   background: rgba(0, 0, 0, 0.6);
   position: absolute;
   left: 30px;
